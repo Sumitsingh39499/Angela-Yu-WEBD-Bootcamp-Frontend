@@ -10,6 +10,16 @@ This repository contains all frontend mini-projects and practice files completed
 - `unix/` → Contains CLI command screenshots
 - `Screenshot-folder-view.png` → Folder structure overview
 
+## 💻 Git Commands Used
+
+```bash
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/Sumitsingh39499/Angela-Yu-WEBD-Bootcamp-Frontend.git
+git push -u origin main
+
 ## ✅ Status
 
 - [x] HTML/CSS
