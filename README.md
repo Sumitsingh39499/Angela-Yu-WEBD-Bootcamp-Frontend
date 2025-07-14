@@ -13,23 +13,21 @@ This repository contains all frontend mini-projects and practice files completed
 ## 💻 Git Commands Used
 
 ```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/Sumitsingh39499/Angela-Yu-WEBD-Bootcamp-Frontend.git
-git push -u origin main
-
+git init  
+git add .  
+git commit -m "Initial commit"  
+git branch -M main  
+git remote add origin https://github.com/Sumitsingh39499/Angela-Yu-WEBD-Bootcamp-Frontend.git  
+git push -u origin main  
+```
 ## ✅ Status
 
-- [x] HTML/CSS
-- [x] Flexbox/Grid
-- [x] Bootstrap
-- [x] JavaScript Basics & DOM
+- [x] HTML/CSS  
+- [x] Flexbox/Grid  
+- [x] Bootstrap  
+- [x] JavaScript Basics & DOM  
 
-Backend part will be uploaded in a separate repo once completed.
-
----
+📦 Backend part will be uploaded in a separate repo once completed.
 
 ### 🧑‍💻 Author
 
