@@ -9,7 +9,6 @@ This repository contains all frontend mini-projects and practice files completed
 - `Simon Game Challenge/`
 - `unix/` → Contains CLI command screenshots
 - `Screenshot-folder-view.png` → Folder structure overview
-- `Screenshot-git-terminal.png` → Git CLI history screenshot
 
 ## ✅ Status
 
